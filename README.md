@@ -19,6 +19,7 @@ Results show that non-standardized RR outperforms PCA in feature discrimination,
 ---
 
 ## 🛠️ Citation
+- link: https://repositorio.yachaytech.edu.ec/handle/123456789/388
 - APA: González Vergara, J. F. (2021). A kernel-based strategy to design Convolutional Neural Network Architecture for learning spatial and temporal representation of weather variables (Bachelor's thesis, Universidad de Investigación de Tecnología Experimental Yachay).
 - - bibtext: @mastersthesis{gonzalez2021kernel,
   title={A kernel-based strategy to design Convolutional Neural Network Architecture for learning spatial and temporal representation of weather variables},
